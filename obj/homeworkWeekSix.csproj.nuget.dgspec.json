@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homwworkWeekSix.csproj": {}
+    "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homeworkWeekSix.csproj": {}
   },
   "projects": {
-    "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homwworkWeekSix.csproj": {
+    "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homeworkWeekSix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homwworkWeekSix.csproj",
-        "projectName": "homwworkWeekSix",
-        "projectPath": "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homwworkWeekSix.csproj",
+        "projectUniqueName": "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homeworkWeekSix.csproj",
+        "projectName": "homeworkWeekSix",
+        "projectPath": "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/homeworkWeekSix.csproj",
         "packagesPath": "/Users/anabogdanova/.nuget/packages/",
         "outputPath": "/Users/anabogdanova/Desktop/CodeYou/homeworkWeekSix/obj/",
         "projectStyle": "PackageReference",
